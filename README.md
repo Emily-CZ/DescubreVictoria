@@ -17,11 +17,11 @@ El sistema resuelve la necesidad de encontrar información rápida y confiable s
 * Escribir el nombre de lo que se busca (ej. *"Tacos"*, *"Café"*, *"Ropa"*) y presionar buscar.
 * El sistema filtrará automáticamente las tarjetas que coincidan.
 
-### 2. 📂 Filtrar por categoría
+### 2. Filtrar por categoría
 * Debajo del buscador se encuentran botones rápidos (ej. *Comida, Servicios, Entretenimiento*).
 * Hacer clic en uno para ver solo los negocios de ese tipo.
 
-### 3. 🃏 Tarjetas interactivas
+### 3. Tarjetas interactivas
 * **Pasar el cursor sobre la tarjeta de cualquier negocio.
 * La tarjeta girará para mostrar la información de contacto al reverso.
 * Hacer clic en la dirección para abrir la ubicación en Google Maps.
@@ -29,7 +29,7 @@ El sistema resuelve la necesidad de encontrar información rápida y confiable s
 
 ---
 
-## 🔐 Acceso al panel administrativo
+## Acceso al panel administrativo
 
 Si es el administrador del sitio, puede gestionar todo el contenido (crear, editar, eliminar negocios).
 
