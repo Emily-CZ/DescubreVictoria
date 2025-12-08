@@ -18,11 +18,11 @@ El sistema resuelve la necesidad de encontrar información rápida y confiable s
 * El sistema filtrará automáticamente las tarjetas que coincidan.
 
 ### 2. Filtrar por categoría
-* Debajo del buscador se encuentran botones rápidos (ej. *Comida, Servicios, Entretenimiento*).
+* Debajo del buscador se encuentran botones rápidos.
 * Hacer clic en uno para ver solo los negocios de ese tipo.
 
 ### 3. Tarjetas interactivas
-* **Pasar el cursor sobre la tarjeta de cualquier negocio.
+* Pasar el cursor sobre la tarjeta de cualquier negocio.
 * La tarjeta girará para mostrar la información de contacto al reverso.
 * Hacer clic en la dirección para abrir la ubicación en Google Maps.
 * Hacer clic en los iconos de Facebook o Instagram para visitar sus perfiles.
