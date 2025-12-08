@@ -14,7 +14,7 @@ El sistema resuelve la necesidad de encontrar información rápida y confiable s
 
 ### 1. Buscar un negocio
 * En la página de inicio, se ve una barra de búsqueda grande.
-* Escribir el nombre de lo que se busca (ej. *"Tacos"*, *"Café"*, *"Ropa"*) y presionar buscar.
+* Escribir el nombre de lo que se busca y presionar buscar.
 * El sistema filtrará automáticamente las tarjetas que coincidan.
 
 ### 2. Filtrar por categoría
